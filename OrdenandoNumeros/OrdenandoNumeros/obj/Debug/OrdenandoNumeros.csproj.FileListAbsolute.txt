@@ -1,0 +1,5 @@
+C:\Users\claus.alberto\Documents\Programas\OrdenandoNumeros\OrdenandoNumeros\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\OrdenandoNumeros\OrdenandoNumeros\bin\Debug\OrdenandoNumeros.exe
+C:\Users\claus.alberto\Documents\Programas\OrdenandoNumeros\OrdenandoNumeros\bin\Debug\OrdenandoNumeros.pdb
+C:\Users\claus.alberto\Documents\Programas\OrdenandoNumeros\OrdenandoNumeros\obj\Debug\OrdenandoNumeros.exe
+C:\Users\claus.alberto\Documents\Programas\OrdenandoNumeros\OrdenandoNumeros\obj\Debug\OrdenandoNumeros.pdb

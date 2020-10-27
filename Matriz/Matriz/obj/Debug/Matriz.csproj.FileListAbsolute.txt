@@ -1,0 +1,5 @@
+C:\Users\claus.alberto\Documents\Programas\Matriz\Matriz\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\Matriz\Matriz\bin\Debug\Matriz.exe
+C:\Users\claus.alberto\Documents\Programas\Matriz\Matriz\bin\Debug\Matriz.pdb
+C:\Users\claus.alberto\Documents\Programas\Matriz\Matriz\obj\Debug\Matriz.exe
+C:\Users\claus.alberto\Documents\Programas\Matriz\Matriz\obj\Debug\Matriz.pdb

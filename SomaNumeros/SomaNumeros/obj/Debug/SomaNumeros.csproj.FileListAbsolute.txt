@@ -1,0 +1,8 @@
+C:\Users\claus.alberto\Documents\Programas\SomaNumeros\SomaNumeros\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\SomaNumeros\SomaNumeros\obj\Debug\SomaNumeros.Form1.resources
+C:\Users\claus.alberto\Documents\Programas\SomaNumeros\SomaNumeros\obj\Debug\SomaNumeros.Properties.Resources.resources
+C:\Users\claus.alberto\Documents\Programas\SomaNumeros\SomaNumeros\obj\Debug\SomaNumeros.csproj.GenerateResource.Cache
+C:\Users\claus.alberto\Documents\Programas\SomaNumeros\SomaNumeros\bin\Debug\SomaNumeros.exe
+C:\Users\claus.alberto\Documents\Programas\SomaNumeros\SomaNumeros\bin\Debug\SomaNumeros.pdb
+C:\Users\claus.alberto\Documents\Programas\SomaNumeros\SomaNumeros\obj\Debug\SomaNumeros.exe
+C:\Users\claus.alberto\Documents\Programas\SomaNumeros\SomaNumeros\obj\Debug\SomaNumeros.pdb

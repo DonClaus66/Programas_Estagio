@@ -1,0 +1,8 @@
+C:\Users\claus.alberto\Documents\Programas\EvalForms\EvalForms\bin\Debug\EvalForms.exe
+C:\Users\claus.alberto\Documents\Programas\EvalForms\EvalForms\bin\Debug\EvalForms.pdb
+C:\Users\claus.alberto\Documents\Programas\EvalForms\EvalForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\EvalForms\EvalForms\obj\Debug\EvalForms.Form1.resources
+C:\Users\claus.alberto\Documents\Programas\EvalForms\EvalForms\obj\Debug\EvalForms.Properties.Resources.resources
+C:\Users\claus.alberto\Documents\Programas\EvalForms\EvalForms\obj\Debug\EvalForms.csproj.GenerateResource.Cache
+C:\Users\claus.alberto\Documents\Programas\EvalForms\EvalForms\obj\Debug\EvalForms.exe
+C:\Users\claus.alberto\Documents\Programas\EvalForms\EvalForms\obj\Debug\EvalForms.pdb

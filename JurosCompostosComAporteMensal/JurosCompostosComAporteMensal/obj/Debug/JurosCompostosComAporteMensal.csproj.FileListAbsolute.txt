@@ -1,0 +1,5 @@
+C:\Users\claus.alberto\Documents\Programas\JurosCompostosComAporteMensal\JurosCompostosComAporteMensal\bin\Debug\JurosCompostosComAporteMensal.exe
+C:\Users\claus.alberto\Documents\Programas\JurosCompostosComAporteMensal\JurosCompostosComAporteMensal\bin\Debug\JurosCompostosComAporteMensal.pdb
+C:\Users\claus.alberto\Documents\Programas\JurosCompostosComAporteMensal\JurosCompostosComAporteMensal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\JurosCompostosComAporteMensal\JurosCompostosComAporteMensal\obj\Debug\JurosCompostosComAporteMensal.exe
+C:\Users\claus.alberto\Documents\Programas\JurosCompostosComAporteMensal\JurosCompostosComAporteMensal\obj\Debug\JurosCompostosComAporteMensal.pdb

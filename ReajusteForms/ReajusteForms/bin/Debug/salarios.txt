@@ -1,0 +1,10 @@
+Claus,      250
+Bugão,    360
+Kleber Dias, 1000
+Guilherme, 1780
+Matheus, 1780
+Andre, 1780
+Alexander, 1780
+Nathan, 1780
+Ivan (Estagiário Pleno), 1780
+Assagra, 1000000

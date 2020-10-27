@@ -1,0 +1,8 @@
+C:\Users\claus.alberto\Documents\Programas\JurosForms\JurosForms\bin\Debug\JurosForms.exe
+C:\Users\claus.alberto\Documents\Programas\JurosForms\JurosForms\bin\Debug\JurosForms.pdb
+C:\Users\claus.alberto\Documents\Programas\JurosForms\JurosForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\JurosForms\JurosForms\obj\Debug\JurosForms.Form1.resources
+C:\Users\claus.alberto\Documents\Programas\JurosForms\JurosForms\obj\Debug\JurosForms.Properties.Resources.resources
+C:\Users\claus.alberto\Documents\Programas\JurosForms\JurosForms\obj\Debug\JurosForms.csproj.GenerateResource.Cache
+C:\Users\claus.alberto\Documents\Programas\JurosForms\JurosForms\obj\Debug\JurosForms.exe
+C:\Users\claus.alberto\Documents\Programas\JurosForms\JurosForms\obj\Debug\JurosForms.pdb

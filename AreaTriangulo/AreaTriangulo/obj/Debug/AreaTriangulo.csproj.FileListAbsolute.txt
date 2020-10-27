@@ -1,0 +1,5 @@
+C:\Users\claus.alberto\Documents\Programas\AreaTriangulo\AreaTriangulo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe
+C:\Users\claus.alberto\Documents\Programas\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.pdb
+C:\Users\claus.alberto\Documents\Programas\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+C:\Users\claus.alberto\Documents\Programas\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb

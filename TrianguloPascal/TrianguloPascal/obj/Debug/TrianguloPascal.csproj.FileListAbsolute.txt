@@ -1,0 +1,8 @@
+C:\Users\claus.alberto\Documents\Programas\TrianguloPascal\TrianguloPascal\bin\Debug\TrianguloPascal.exe
+C:\Users\claus.alberto\Documents\Programas\TrianguloPascal\TrianguloPascal\bin\Debug\TrianguloPascal.pdb
+C:\Users\claus.alberto\Documents\Programas\TrianguloPascal\TrianguloPascal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.Form1.resources
+C:\Users\claus.alberto\Documents\Programas\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.Properties.Resources.resources
+C:\Users\claus.alberto\Documents\Programas\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.csproj.GenerateResource.Cache
+C:\Users\claus.alberto\Documents\Programas\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.exe
+C:\Users\claus.alberto\Documents\Programas\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.pdb

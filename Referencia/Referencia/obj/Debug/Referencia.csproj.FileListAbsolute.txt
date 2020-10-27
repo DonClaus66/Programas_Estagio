@@ -1,0 +1,5 @@
+C:\Users\claus.alberto\Documents\Programas\Referencia\Referencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\Referencia\Referencia\bin\Debug\Referencia.exe
+C:\Users\claus.alberto\Documents\Programas\Referencia\Referencia\bin\Debug\Referencia.pdb
+C:\Users\claus.alberto\Documents\Programas\Referencia\Referencia\obj\Debug\Referencia.exe
+C:\Users\claus.alberto\Documents\Programas\Referencia\Referencia\obj\Debug\Referencia.pdb

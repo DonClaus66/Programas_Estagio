@@ -1,0 +1,8 @@
+C:\Users\claus.alberto\Documents\Programas\ReajusteForms\ReajusteForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\ReajusteForms\ReajusteForms\obj\Debug\ReajusteForms.Form1.resources
+C:\Users\claus.alberto\Documents\Programas\ReajusteForms\ReajusteForms\obj\Debug\ReajusteForms.Properties.Resources.resources
+C:\Users\claus.alberto\Documents\Programas\ReajusteForms\ReajusteForms\obj\Debug\ReajusteForms.csproj.GenerateResource.Cache
+C:\Users\claus.alberto\Documents\Programas\ReajusteForms\ReajusteForms\bin\Debug\ReajusteForms.exe
+C:\Users\claus.alberto\Documents\Programas\ReajusteForms\ReajusteForms\bin\Debug\ReajusteForms.pdb
+C:\Users\claus.alberto\Documents\Programas\ReajusteForms\ReajusteForms\obj\Debug\ReajusteForms.exe
+C:\Users\claus.alberto\Documents\Programas\ReajusteForms\ReajusteForms\obj\Debug\ReajusteForms.pdb

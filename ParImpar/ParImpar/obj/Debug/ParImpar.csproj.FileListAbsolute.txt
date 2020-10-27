@@ -1,0 +1,5 @@
+C:\Users\claus.alberto\Documents\Programas\ParImpar\ParImpar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\ParImpar\ParImpar\bin\Debug\ParImpar.exe
+C:\Users\claus.alberto\Documents\Programas\ParImpar\ParImpar\bin\Debug\ParImpar.pdb
+C:\Users\claus.alberto\Documents\Programas\ParImpar\ParImpar\obj\Debug\ParImpar.exe
+C:\Users\claus.alberto\Documents\Programas\ParImpar\ParImpar\obj\Debug\ParImpar.pdb

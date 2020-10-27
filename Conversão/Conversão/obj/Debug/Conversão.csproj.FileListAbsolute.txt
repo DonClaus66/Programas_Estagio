@@ -1,0 +1,5 @@
+C:\Users\claus.alberto\Documents\Programas\Conversão\Conversão\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\Conversão\Conversão\bin\Debug\Conversão.exe
+C:\Users\claus.alberto\Documents\Programas\Conversão\Conversão\bin\Debug\Conversão.pdb
+C:\Users\claus.alberto\Documents\Programas\Conversão\Conversão\obj\Debug\Conversão.exe
+C:\Users\claus.alberto\Documents\Programas\Conversão\Conversão\obj\Debug\Conversão.pdb

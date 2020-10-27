@@ -1,0 +1,8 @@
+C:\Users\claus.alberto\Documents\Programas\DetectarChar\DetectarChar\bin\Debug\DetectarChar.exe
+C:\Users\claus.alberto\Documents\Programas\DetectarChar\DetectarChar\bin\Debug\DetectarChar.pdb
+C:\Users\claus.alberto\Documents\Programas\DetectarChar\DetectarChar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\DetectarChar\DetectarChar\obj\Debug\DetectarChar.Properties.Resources.resources
+C:\Users\claus.alberto\Documents\Programas\DetectarChar\DetectarChar\obj\Debug\DetectarChar.csproj.GenerateResource.Cache
+C:\Users\claus.alberto\Documents\Programas\DetectarChar\DetectarChar\obj\Debug\DetectarChar.exe
+C:\Users\claus.alberto\Documents\Programas\DetectarChar\DetectarChar\obj\Debug\DetectarChar.pdb
+C:\Users\claus.alberto\Documents\Programas\DetectarChar\DetectarChar\obj\Debug\DetectarChar.mtbCaracter.resources

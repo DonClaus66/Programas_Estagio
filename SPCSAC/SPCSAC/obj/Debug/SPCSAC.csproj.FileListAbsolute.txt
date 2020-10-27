@@ -1,0 +1,9 @@
+C:\Users\claus.alberto\Documents\Programas\SPCSAC\SPCSAC\bin\Debug\SPCSAC.exe
+C:\Users\claus.alberto\Documents\Programas\SPCSAC\SPCSAC\bin\Debug\SPCSAC.pdb
+C:\Users\claus.alberto\Documents\Programas\SPCSAC\SPCSAC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claus.alberto\Documents\Programas\SPCSAC\SPCSAC\obj\Debug\SPCSAC.Form1.resources
+C:\Users\claus.alberto\Documents\Programas\SPCSAC\SPCSAC\obj\Debug\SPCSAC.Properties.Resources.resources
+C:\Users\claus.alberto\Documents\Programas\SPCSAC\SPCSAC\obj\Debug\SPCSAC.csproj.GenerateResource.Cache
+C:\Users\claus.alberto\Documents\Programas\SPCSAC\SPCSAC\obj\Debug\SPCSAC.exe
+C:\Users\claus.alberto\Documents\Programas\SPCSAC\SPCSAC\obj\Debug\SPCSAC.pdb
+C:\Users\claus.alberto\Documents\Programas\SPCSAC\SPCSAC\bin\Debug\Tabela.xml
